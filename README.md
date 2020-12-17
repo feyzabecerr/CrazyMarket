@@ -1,5 +1,5 @@
 # CrazyMarket
-market implementation
+
 Bir marketteki kasa şu şekilde çalışmaktadır:
 Kasaya müşteriler  [0-2] aralığındaki rastgele süre aralıklarıyla gelmektedir.
 Her müşterinin hizmet alması kasada [1-3] saniye aralığındaki rastgele bir süre kadar sürmektedir.  
